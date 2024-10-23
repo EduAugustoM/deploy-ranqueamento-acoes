@@ -1,0 +1,1 @@
+web: streamlit run rank.py --server.port=$PORT
