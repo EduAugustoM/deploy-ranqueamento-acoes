@@ -1,3 +1,5 @@
+![Gráfico das cotações](https://raw.githubusercontent.com/EduAugustoM/user-images/refs/heads/main/graficos-cotacoes.png?token=GHSAT0AAAAAACYJXAH62YPHMCM2ZOE6T75QZY2K45Q)
+
 # Projeto de Ranqueamento de Ações
 
 Este projeto é uma aplicação desenvolvida em Python que utiliza o **Streamlit** para criar uma interface interativa de ranqueamento de ações. A aplicação permite que os usuários escolham ações, definam um período de tempo e visualizem uma comparação entre essas ações, gerando gráficos e tabelas que facilitam a análise de desempenho.
