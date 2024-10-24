@@ -75,7 +75,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou faz
 ---
 
 <div style='text-align: center;'> 
-        <a href='https://deploy-ranqueamento-acoes-adf8b8bd0fea.herokuapp.com/' target='_blank'>
+        <a href='https://web-production-e47d0.up.railway.app/' target='_blank'>
             Ranqueamento de Ações
         </a>
-</div>
+  </div>
