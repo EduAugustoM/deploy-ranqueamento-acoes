@@ -1,4 +1,4 @@
-![Gráfico das cotações](https://raw.githubusercontent.com/EduAugustoM/user-images/refs/heads/main/graficos-cotacoes.png?token=GHSAT0AAAAAACYJXAH62YPHMCM2ZOE6T75QZY2K45Q)
+![Gráfico das cotações](https://github.com/EduAugustoM/user-images/blob/main/graficos-cotacoes.png?raw=true)
 
 # Projeto de Ranqueamento de Ações
 
